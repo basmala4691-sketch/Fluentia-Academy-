@@ -1,4 +1,5 @@
 import heroBanner from "../assets/images/fluentia_hero_banner_1792916086909.jpg";
+import speakingClub from "../src/assets/images/speaking_club_group_1792916087603.jpg";
 import React, { useState } from 'react';
 import {
   ArrowRight,
@@ -253,7 +254,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
             <div className="lg:col-span-6 relative">
               <div className="rounded-2xl overflow-hidden border-2 border-[#4E7C65]/40 shadow-2xl">
                 <img
-                  src="../src/assets/images/speaking_club_group_1792916087603.jpg"
+                  src={speakingClub}
                   alt="Fluentia Speaking Club Session"
                   className="w-full h-[380px] object-cover"
                   referrerPolicy="no-referrer"
