@@ -1,0 +1,6 @@
+{
+  "name": "Fluentia English Academy",
+  "description": "Premium online English academy with CEFR courses, interactive speaking practice, verified teachers, speaking clubs, and secure student, teacher, and owner portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
