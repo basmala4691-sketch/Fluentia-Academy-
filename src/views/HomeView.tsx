@@ -1,3 +1,4 @@
+import heroBanner from "./assets/images/fluentia_hero_banner_1792916086909.jpg";
 import React, { useState } from 'react';
 import {
   ArrowRight,
@@ -130,7 +131,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
             <div className="lg:col-span-5 relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-white bg-slate-900 group">
                 <img
-                  src="/src/assets/images/fluentia_hero_banner_1792916086909.jpg"
+                  src={heroBanner}
                   alt="Fluentia English Academy Study Lounge"
                   className="w-full h-[420px] object-cover group-hover:scale-105 transition-transform duration-700"
                   referrerPolicy="no-referrer"
