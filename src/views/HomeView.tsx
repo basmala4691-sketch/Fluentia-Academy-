@@ -1,4 +1,4 @@
-import heroBanner from "./assets/fluentia_hero_banner_1792916086909.jpg";
+import heroBanner from "../assets/images/fluentia_hero_banner_1792916086909.jpg";
 import React, { useState } from 'react';
 import {
   ArrowRight,
