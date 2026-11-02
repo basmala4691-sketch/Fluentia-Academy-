@@ -1,5 +1,5 @@
 import heroBanner from "../assets/images/fluentia_hero_banner_1792916086909.jpg";
-import speakingClub from "../src/assets/images/speaking_club_group_1792916087603.jpg";
+import speakingClub from "../assets/images/speaking_club_group_1792916087603.jpg";
 import React, { useState } from 'react';
 import {
   ArrowRight,
